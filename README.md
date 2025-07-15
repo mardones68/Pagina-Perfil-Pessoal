@@ -1,5 +1,7 @@
 # Projeto: Perfil Pessoal com HTML5 Semântico e CSS Responsivo
 
+🔗 **Acesse o site aqui**: https://mardones68.github.io/Pagina-Perfil-Pessoal/
+
 Este projeto foi desenvolvido como parte da **Jornada Full Stack da +PraTi em parceria com a Codifica**. O objetivo principal é aplicar conceitos de **HTML5 semântico** e **CSS moderno** para a criação de uma página de perfil pessoal bem estruturada, acessível e responsiva.
 
 ---
